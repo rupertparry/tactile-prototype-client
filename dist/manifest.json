@@ -1,0 +1,7 @@
+{
+  "name": "Tactile",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#F6FBFC"
+}

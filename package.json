@@ -1,0 +1,29 @@
+{
+  "name": "tactile-prototype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "file-loader": "^1.1.6",
+    "react": "^16.2.0",
+    "react-bodymovin": "^1.1.1",
+    "react-dom": "^16.2.0",
+    "react-lottie": "^1.0.0",
+    "react-router-dom": "^4.2.2",
+    "socket.io-client": "^2.0.4"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "path": "^0.12.7",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  }
+}
